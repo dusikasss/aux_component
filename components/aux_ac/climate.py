@@ -68,7 +68,7 @@ CONF_DEFROST_STATE = "defrost_state"
 ICON_DEFROST = "mdi:snowflake-melt"
 
 CONF_DISPLAY_INVERTED = "display_inverted"
-ICON_DISPLAY = "mdi:clock-digital"
+ICON_DISPLAY = "mdi:select-compare"
 
 CONF_PRESET_REPORTER = "preset_reporter"
 ICON_PRESET_REPORTER = "mdi:format-list-group"
